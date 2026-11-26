@@ -1,0 +1,6 @@
+erl_hub
+erl_hub.exe
+erl_hub_tests
+build/
+data/*.bin
+*.tmp
